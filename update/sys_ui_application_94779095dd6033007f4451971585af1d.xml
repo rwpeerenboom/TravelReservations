@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>Travel Request</name>
+        <order/>
+        <roles>x_snc_travel.user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-31 10:13:31</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>94779095dd6033007f4451971585af1d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Travel Request</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Travel Request" source="x_snc_travel">e5471c55dd6033007f4451971585affe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Travel Request">e5471c55dd6033007f4451971585affe</sys_scope>
+        <sys_update_name>sys_ui_application_94779095dd6033007f4451971585af1d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-31 10:13:31</sys_updated_on>
+    </sys_ui_application>
+</record_update>

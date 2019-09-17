@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="Create Record">2de05916c31332002841b63b12d3aee1</action_type>
+        <action_type_parent display_value="Create Record">02f0b88cc3c632002841b63b12d3aeff</action_type_parent>
+        <comment/>
+        <compiled_snapshot>2de05916c31332002841b63b12d3aee1</compiled_snapshot>
+        <display_text/>
+        <flow display_value="New Travel Request">6ba858d5dd6033007f4451971585af8b</flow>
+        <order>1</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-31 10:18:56</sys_created_on>
+        <sys_id>6fa858d5dd6033007f4451971585afbf</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Travel Request" source="x_snc_travel">e5471c55dd6033007f4451971585affe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Travel Request">e5471c55dd6033007f4451971585affe</sys_scope>
+        <sys_update_name>sys_hub_action_instance_6fa858d5dd6033007f4451971585afbf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-31 10:18:56</sys_updated_on>
+        <ui_id>1eae753c-7d03-4ac9-935f-fe746b5da631</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=6fa858d5dd6033007f4451971585afbf"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>6fa858d5dd6033007f4451971585afbf</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-31 10:18:57</sys_created_on>
+        <sys_id>2fa858d5dd6033007f4451971585afc4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-31 10:18:57</sys_updated_on>
+        <value>x_snc_travel_request</value>
+        <variable display_value="">61e05916c31332002841b63b12d3aee4</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=6fa858d5dd6033007f4451971585afbf"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>table_name</field>
+        <id>6fa858d5dd6033007f4451971585afbf</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-31 10:18:57</sys_created_on>
+        <sys_id>e7a858d5dd6033007f4451971585afc4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-31 10:18:57</sys_updated_on>
+        <table>var__m_sys_hub_action_input_2de05916c31332002841b63b12d3aee1</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>values</field>
+        <id>6fa858d5dd6033007f4451971585afbf</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-31 10:18:57</sys_created_on>
+        <sys_id>aba858d5dd6033007f4451971585afc4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-31 10:18:57</sys_updated_on>
+        <table>var__m_sys_hub_action_input_2de05916c31332002841b63b12d3aee1</table>
+        <value>short_description=New Travel Request^opened_by={{subflow.user}}^parent={{subflow.related_record}}^description={{subflow.description}}^assignment_group={"display":"Travel Department","value":"b05ba3037c1c33007f44d2ea65ef5ad6"}</value>
+    </sys_element_mapping>
+</record_update>
